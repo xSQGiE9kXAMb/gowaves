@@ -10,3 +10,5 @@ In order to generate PEG parser, please, install project https://github.com/poin
 ```bash
 go install github.com/pointlander/peg@latest
 ```
+
+<!-- Auto-update: 2025-10-15T17:28:51.902333 -->
